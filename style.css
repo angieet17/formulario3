@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(194, 253, 253);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+section{
+    text-align: center;
+}
+form{
+    background-color: rgb(103, 178, 243);
+    text-align: left;
+    
+    padding: 20px;
+    width: 300px;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+    color: aliceblue;
+    
+}
+input{
+   box-sizing: border-box;
+   width: 100%;
+   padding: 8px;
+   margin-bottom: 15px;
+}
+#enviar{
+    background-color: rgb(64, 79, 167);
+    cursor: pointer;
+    color: aliceblue;
+    border: none;
+    
+}
+
